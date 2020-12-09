@@ -12,15 +12,18 @@ body {
 
 /* Link Color */
 a { 
-	color: #e01f34; 
+	color:#F7F013
+; 
 	}
 
 /* Link Hover Color */
 a:hover {
- 	color: #e01f34
+ 	color:#F7F013
+
 	}
 .cool-link {
-	background-image: linear-gradient(transparent 88%, #e01f34 12%);
+	background-image: linear-gradient(transparent 88%,#F7F013
+ 12%);
 	}	
 
 
@@ -32,7 +35,8 @@ h1, h2, h3, h4, h5, h6, blockquote {
 
 /* Home Title Bg Color */
 .home-text-container {
-    background: #e01f34;
+    background:#F7F013
+;
 	}
 
 /* Home Title Font Weight */
@@ -71,10 +75,12 @@ button:hover,
 .home-menu .item-name::after,
 .overlay-2,
 .mfp-bg  {
- 	background-color: #e01f34;
+ 	background-color:#F7F013
+;
 	}
 *::-webkit-scrollbar-thumb {
-	background-color: #e01f34;
+	background-color:#F7F013
+;
 	}
 .bypostauthor > article,
 .event h3,
@@ -89,7 +95,8 @@ button,
 .button,
 .more-link,
 .navigation a {
-	border-color: #e01f34
+	border-color:#F7F013
+
 	}
 .event h3,
 .entry-title a:hover,
@@ -100,10 +107,13 @@ button,
 .more-link,
 .navigation a,
 .filters .current .cool-link {
-	color: #e01f34
+	color:#F7F013
+
 	}
 #nprogress .spinner-icon {
-  	border-top-color: #e01f34; border-left-color: #e01f34;
+  	border-top-color:#F7F013
+; border-left-color:#F7F013
+;
 	}
 
 
